@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "//KolesnikovNikita.github.io/test-app/static/js/main.dde7879f.js",
+    "static/js/787.3ccb66f4.chunk.js": "//KolesnikovNikita.github.io/test-app/static/js/787.3ccb66f4.chunk.js",
+    "static/media/product_image.png": "//KolesnikovNikita.github.io/test-app/static/media/product_image.7fe3294cfde3200ef312.png",
+    "index.html": "//KolesnikovNikita.github.io/test-app/index.html",
+    "main.dde7879f.js.map": "//KolesnikovNikita.github.io/test-app/static/js/main.dde7879f.js.map",
+    "787.3ccb66f4.chunk.js.map": "//KolesnikovNikita.github.io/test-app/static/js/787.3ccb66f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dde7879f.js"
+  ]
+}
