@@ -21,13 +21,13 @@ export const setProductAction = (payload: Product[]) => {
   }
 }
 
-type setErrorLoadingAction = {
+type setProductsAction = {
   type: typeof SET_PRODUCTS,
   payload: Product[]
 }
 
 
-type setProductsAction = {
+type setErrorLoadingAction = {
   type: typeof SET_ERROR,
   error: boolean
 }

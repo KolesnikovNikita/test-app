@@ -2,9 +2,9 @@ import { useDispatch, useSelector } from "react-redux";
 import React, { useEffect, useState, ChangeEvent } from 'react';
 import { AppState } from "./rootReducer";
 import { getProducts } from "../api/fetchProducts";
-import { setProductAction } from "../redux/products";
+import { setProductAction } from "./products";
 import Product from "../interface/Product"
-import { ProductState } from "../redux/products"
+import { ProductState } from "./products"
 
 type Props = {
   list: Product[];

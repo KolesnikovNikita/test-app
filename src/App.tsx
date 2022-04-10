@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useProducts } from "./init/useProducts";
-import Product from "./Page/Products";
+import Product from "./page/Products";
 import {
   H1,
   Paragraph,
@@ -8,7 +8,7 @@ import {
   Section,
   ProductList,
 } from "./app_styles";
-import SelectAvaible from "./Page/SelectAvaible";
+import SelectAvaible from "./page/SelectAvaible";
 
 function App() {
   const { list } = useProducts();
